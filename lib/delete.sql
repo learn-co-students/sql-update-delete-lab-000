@@ -1,0 +1,1 @@
+DELETE FROM cats where name="Nala";
